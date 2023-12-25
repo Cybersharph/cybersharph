@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on My Fundraize Platform.
+- 🌱 I’m currently learning JS, Laravel, Cybersecurity, Pentesting.
+- 👯 I’m looking to collaborate on ...
+- 💬 Ask me about Frontend technologies and Cybersecurity.
+- 📫 How to reach me: cybersharph@gmail.com
+- 😄 Pronouns: Mr.
