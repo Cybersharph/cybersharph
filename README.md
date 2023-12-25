@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on My Fundraize Platform.
+- 🔭 I’m currently working on a Crowdfunding platform.
 - 🌱 I’m currently learning JS, Laravel, Cybersecurity, Pentesting.
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about Frontend technologies and Cybersecurity.
