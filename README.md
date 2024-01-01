@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a Crowdfunding platform.
 - 🌱 I’m currently learning JS, Laravel, Cybersecurity, Pentesting.
-- 👯 I’m looking to collaborate on ...
 - 💬 Ask me about Frontend technologies and Cybersecurity.
 - 📫 How to reach me: cybersharph@gmail.com
-- 😄 Pronouns: Mr.
+- 😄 Pronouns: he/him
